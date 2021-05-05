@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javalireports/Log-Analyzer-Using-Jupyter-Notebook/HEAD) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) 
 
-# Log Analyzer Using Jupyter Notebook For DFIR
+# Log analysis using Jupyter notebook for CyberSec folks
 
 Well, during incident response, an incident responder deals with various kinds of logs and has many tools for analysis at their disposal. The goal of the log analysis during cyber incident is to develop intelligence and join the shreds of evidence collected to find the root cause of the security breach.
 
