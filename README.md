@@ -1,4 +1,4 @@
- [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javalireports/Log-Analysis-Using-Jupyter-Notebook/HEAD) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) 
 
 # Log analysis using Jupyter notebook for CyberSec folks
 
