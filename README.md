@@ -8,7 +8,9 @@ I would like to introduce you to Jupyter Notebook another efficient tool that is
 
 To launch the Jupyter Notebook click on launch binder icon.
 
-Click Notebook to:
+Available notebooks as below:
 1. Apache-AccessLog-Analyzer.ipynb
+
+PS: you can feed your data just update the filename in the notebook. For any questions reach out to me.
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/javalireports.svg?style=social&label=Follow%20%40javalireports)](https://twitter.com/javalireports)
