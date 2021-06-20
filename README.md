@@ -2,7 +2,7 @@
 
 # Log analysis using Jupyter notebook for CyberSec folks
 
-(Please find the detailed walkthrough here: https://www.linkedin.com/pulse/log-analysis-find-outlier-using-jupyter-notebook-arvind-javali
+(Please find the detailed walkthrough here: https://www.linkedin.com/pulse/log-analysis-find-outlier-using-jupyter-notebook-arvind-javali)
 
 Well, during incident response, an incident responder deals with various kinds of logs and has many tools for analysis at their disposal. The goal of the log analysis during cyber incident is to develop intelligence and join the shreds of evidence collected to find the root cause of the security breach.
 
