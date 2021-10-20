@@ -13,7 +13,7 @@ To launch the Jupyter Notebook click on launch binder icon.
 Available notebooks as below:
 1. Apache-AccessLog-Analyzer.ipynb
 
-For demo watch this YouTube vido here: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eXTvn3xB5UI&ab_channel=JavaliReports/0.jpg)](https://www.youtube.com/watch?v=eXTvn3xB5UI&ab_channel=JavaliReports)
+For demo watch this YouTube vido here: [![YouTube](https://img.youtube.com/vi/eXTvn3xB5UI&ab_channel=JavaliReports/0.jpg)](https://www.youtube.com/watch?v=eXTvn3xB5UI&ab_channel=JavaliReports)
 
 PS: you can feed your data just update the filename in the notebook. For any questions reach out to me.
 
